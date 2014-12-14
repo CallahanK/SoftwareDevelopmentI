@@ -7,4 +7,4 @@ Various remaining projects created for java development class taken while in hig
 
 Bulk work - mostly class and testers
 
-CS Society - couple ACSL programs
+CS Society - couple of ACSL programs
